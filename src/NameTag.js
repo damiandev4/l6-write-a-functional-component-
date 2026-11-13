@@ -12,7 +12,7 @@ const NameTag = () => (
   <div className="name-tag">
     <h2 className="title">Hello</h2>
     <p className="subtitle">my name is</p>
-    <h3 className="name">Damián</h3>
+    <h3 className="name">{props.name}</h3>
   </div>
 );
 
