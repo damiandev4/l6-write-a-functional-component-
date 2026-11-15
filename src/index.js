@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import NameTag from "./NameTag.js";
-import {names} from "./data.js";
+import { names } from "./data.js";
 import "./styles.css";
 
 
